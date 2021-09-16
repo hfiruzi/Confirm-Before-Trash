@@ -1,2 +1,2 @@
 # plugin 
-# Confirm Before Trash for worpress
+# Confirm Before Trash for Wordpress
